@@ -41,12 +41,8 @@ Building autonomous AI systems, developer tooling, production-ready applications
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-181717?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCode-0A84FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge"/>
 
 </p>
@@ -147,17 +143,7 @@ Building autonomous AI systems, developer tooling, production-ready applications
 
 # 📫 Connect
 
-<div align="center">
-
-<a href="https://github.com/beast-ofcourse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:beastcreates46@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+## beastcreates46@gmail.com
 
 ---
 
