@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Minecraft Hence
+# Hi 👋 I'm Beast-ofcourse
 
 ### 🤖 Agentic Engineer • 🌐 Full Stack Developer • ⚡ Open Source Contributor
 
