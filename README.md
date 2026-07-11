@@ -40,7 +40,7 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 <pre style="margin: 0; font-size: 14px; line-height: 1.7; color: #e6edf3; background: transparent; border: none;">
 <span style="color: #c9d1d9;">const</span> <span style="color: #ffa657;">developer</span> <span style="color: #c9d1d9;">= {</span>
 
-  <span style="color: #79c0ff;">name</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">"Minecraft Hence"</span><span style="color: #c9d1d9;">,</span>
+  <span style="color: #79c0ff;">name</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">"Beast-ofcourse"</span><span style="color: #c9d1d9;">,</span>
 
   <span style="color: #79c0ff;">role</span><span style="color: #c9d1d9;">: [</span>
     <span style="color: #a5d6ff;">"Agentic Engineer"</span><span style="color: #c9d1d9;">,</span>
@@ -49,18 +49,18 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
   <span style="color: #c9d1d9;">],</span>
 
   <span style="color: #79c0ff;">currentlyBuilding</span><span style="color: #c9d1d9;">: [</span>
-    <span style="color: #a5d6ff;">"Autonomous AI Agents"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Developer Tools"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Autonomous AI Systems"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Developer Tooling"</span><span style="color: #c9d1d9;">,</span>
     <span style="color: #a5d6ff;">"AI Wrappers"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Production-grade SaaS"</span>
+    <span style="color: #a5d6ff;">"Production SaaS"</span>
   <span style="color: #c9d1d9;">],</span>
 
   <span style="color: #79c0ff;">interests</span><span style="color: #c9d1d9;">: [</span>
     <span style="color: #a5d6ff;">"LLMs"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Agentic Systems"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Web Development"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"MCP"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Agentic Workflows"</span><span style="color: #c9d1d9;">,</span>
     <span style="color: #a5d6ff;">"Open Source"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Developer Experience"</span>
+    <span style="color: #a5d6ff;">"DX"</span>
   <span style="color: #c9d1d9;">],</span>
 
   <span style="color: #79c0ff;">philosophy</span><span style="color: #c9d1d9;">:</span>
