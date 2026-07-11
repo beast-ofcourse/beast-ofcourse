@@ -30,35 +30,46 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 # 🚀 About Me
 
-```ts
-const developer = {
-    name: "Minecraft Hence",
+<div align="left" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border: 1px solid #30363d; border-radius: 12px; padding: 24px 28px; max-width: 720px; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin: 16px 0;">
 
-    role: [
-        "Agentic Engineer",
-        "Full Stack Developer",
-        "Open Source Contributor"
-    ],
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 18px; padding-bottom: 14px; border-bottom: 1px solid #21262d;">
+  <span style="color: #58a6ff; font-size: 14px; background: #1f2937; padding: 4px 12px; border-radius: 6px;">⬡ developer.ts</span>
+  <span style="color: #8b949e; font-size: 12px;">— VS Code</span>
+</div>
 
-    currentlyBuilding: [
-        "Autonomous AI Agents",
-        "Developer Tools",
-        "AI Wrappers",
-        "Production-grade SaaS"
-    ],
+<pre style="margin: 0; font-size: 14px; line-height: 1.7; color: #e6edf3; background: transparent; border: none;">
+<span style="color: #c9d1d9;">const</span> <span style="color: #ffa657;">developer</span> <span style="color: #c9d1d9;">= {</span>
 
-    interests: [
-        "LLMs",
-        "Agentic Systems",
-        "Web Development",
-        "Open Source",
-        "Developer Experience"
-    ],
+  <span style="color: #79c0ff;">name</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">"Minecraft Hence"</span><span style="color: #c9d1d9;">,</span>
 
-    philosophy:
-        "Build useful software. Automate everything. Ship fast."
-}
-```
+  <span style="color: #79c0ff;">role</span><span style="color: #c9d1d9;">: [</span>
+    <span style="color: #a5d6ff;">"Agentic Engineer"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Full Stack Developer"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Open Source Contributor"</span>
+  <span style="color: #c9d1d9;">],</span>
+
+  <span style="color: #79c0ff;">currentlyBuilding</span><span style="color: #c9d1d9;">: [</span>
+    <span style="color: #a5d6ff;">"Autonomous AI Agents"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Developer Tools"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"AI Wrappers"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Production-grade SaaS"</span>
+  <span style="color: #c9d1d9;">],</span>
+
+  <span style="color: #79c0ff;">interests</span><span style="color: #c9d1d9;">: [</span>
+    <span style="color: #a5d6ff;">"LLMs"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Agentic Systems"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Web Development"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Open Source"</span><span style="color: #c9d1d9;">,</span>
+    <span style="color: #a5d6ff;">"Developer Experience"</span>
+  <span style="color: #c9d1d9;">],</span>
+
+  <span style="color: #79c0ff;">philosophy</span><span style="color: #c9d1d9;">:</span>
+    <span style="color: #a5d6ff;">"Build useful software. Automate everything. Ship fast."</span>
+
+<span style="color: #c9d1d9;">}</span>
+</pre>
+
+</div>
 
 ---
 
