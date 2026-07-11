@@ -2,74 +2,35 @@
 
 # Hi 👋 I'm Beast-ofcourse
 
-### 🤖 Agentic Engineer • 🌐 Full Stack Developer • ⚡ Open Source Contributor
+### 🤖 Agentic Engineer • 🌐 Full Stack Developer
 
-<p>
-Building autonomous AI systems, developer tooling, production-grade web applications, and high-quality open source software.
-</p>
+Building autonomous AI systems, developer tooling, production-ready applications, and contributing to open source.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4EA1FF&center=true&vCenter=true&width=650&lines=Agentic+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Autonomous+AI+Systems;Shipping+Production+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+Engineer;Full+Stack+Developer;Building+Autonomous+AI+Systems;Developer+Tools;Open+Source+Contributor;Shipping+Production+Software"/>
 
-<p>
+<br>
+
 <a href="https://github.com/beast-ofcourse">
 <img src="https://img.shields.io/github/followers/beast-ofcourse?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://github.com/beast-ofcourse?tab=repositories">
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
-</a>
-
-<a href="#">
 <img src="https://komarev.com/ghpvc/?username=beast-ofcourse&style=for-the-badge&color=blue"/>
-</a>
-</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 Developer Dashboard
 
-<div align="left" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border: 1px solid #30363d; border-radius: 12px; padding: 24px 28px; max-width: 720px; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin: 16px 0;">
-
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 18px; padding-bottom: 14px; border-bottom: 1px solid #21262d;">
-  <span style="color: #58a6ff; font-size: 14px; background: #1f2937; padding: 4px 12px; border-radius: 6px;">⬡ developer.ts</span>
-  <span style="color: #8b949e; font-size: 12px;">— VS Code</span>
-</div>
-
-<pre style="margin: 0; font-size: 14px; line-height: 1.7; color: #e6edf3; background: transparent; border: none;">
-<span style="color: #c9d1d9;">const</span> <span style="color: #ffa657;">developer</span> <span style="color: #c9d1d9;">= {</span>
-
-  <span style="color: #79c0ff;">name</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">"Beast-ofcourse"</span><span style="color: #c9d1d9;">,</span>
-
-  <span style="color: #79c0ff;">role</span><span style="color: #c9d1d9;">: [</span>
-    <span style="color: #a5d6ff;">"Agentic Engineer"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Full Stack Developer"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Open Source Contributor"</span>
-  <span style="color: #c9d1d9;">],</span>
-
-  <span style="color: #79c0ff;">currentlyBuilding</span><span style="color: #c9d1d9;">: [</span>
-    <span style="color: #a5d6ff;">"Autonomous AI Systems"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Developer Tooling"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"AI Wrappers"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Production SaaS"</span>
-  <span style="color: #c9d1d9;">],</span>
-
-  <span style="color: #79c0ff;">interests</span><span style="color: #c9d1d9;">: [</span>
-    <span style="color: #a5d6ff;">"LLMs"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"MCP"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Agentic Workflows"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"Open Source"</span><span style="color: #c9d1d9;">,</span>
-    <span style="color: #a5d6ff;">"DX"</span>
-  <span style="color: #c9d1d9;">],</span>
-
-  <span style="color: #79c0ff;">philosophy</span><span style="color: #c9d1d9;">:</span>
-    <span style="color: #a5d6ff;">"Build useful software. Automate everything. Ship fast."</span>
-
-<span style="color: #c9d1d9;">}</span>
-</pre>
-
-</div>
+| | |
+|:--|:--|
+| 🤖 **Role** | Agentic Engineer |
+| 🌐 **Specialization** | Full Stack Development |
+| 🧠 **Expertise** | Autonomous AI Agents • Multi-Agent Systems • LLM Applications |
+| 🚀 **Currently Building** | AI Wrappers • Developer Tools • Production SaaS |
+| 🔬 **Currently Learning** | MCP • LangGraph • Distributed AI Systems |
+| ❤️ **Open Source** | Building tools that improve developer productivity |
+| ⚡ **Philosophy** | *Build useful software. Automate everything. Ship fast.* |
 
 ---
 
@@ -77,14 +38,16 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0A84FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode-0A84FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge"/>
 
 </p>
 
@@ -110,15 +73,43 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
 
-### DevOps & Cloud
+### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel,linux,bash"/>
 
-### Tools
+### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+🤖 Building      → Autonomous AI Agents
+
+🧠 Researching   → Agentic Workflows & MCP
+
+⚡ Shipping      → Production-ready Full Stack Apps
+
+📦 Open Source   → Developer Productivity Tools
+
+🌍 Goal          → Build software used by thousands
+```
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|:--|:--|
+| 🤖 **SWE-Pro Agents** | Professional autonomous coding agents |
+| 🛠 **OpenCode Skills** | Modular skills & workflows for OpenCode |
+| 🏋️ **AI Gym Trainer** | AI-powered workout & nutrition platform |
+| 🎬 **AI Video Pipeline** | End-to-end autonomous video generation |
+| 🌐 **Full Stack SaaS** | Modern production-ready web applications |
 
 ---
 
@@ -130,31 +121,11 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-ofcourse&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=beast-ofcourse&theme=github-dark-blue&hide_border=true"/>
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=beast-ofcourse&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=beast-ofcourse&theme=github-compact&hide_border=true"/>
 
@@ -162,13 +133,15 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 ---
 
-# 🚀 Current Focus
+# 📈 GitHub Journey
 
-- 🤖 Building autonomous AI agents
-- 🧠 Multi-agent orchestration
-- ⚡ Developer productivity tools
-- 🌍 Full Stack SaaS applications
-- 📦 Open Source contributions
+```text
+✓ Building AI Products
+✓ Full Stack Development
+✓ Open Source Contributor
+✓ Shipping Real Projects
+✓ Continuous Learning
+```
 
 ---
 
@@ -180,9 +153,8 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-
 <a href="mailto:beastcreates46@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -191,6 +163,6 @@ Building autonomous AI systems, developer tooling, production-grade web applicat
 
 <div align="center">
 
-### ⚡ "Code. Automate. Ship."
+### ⚡ *"Build. Automate. Ship. Repeat."*
 
 </div>
