@@ -95,19 +95,6 @@ Building autonomous AI systems, developer tooling, production-ready applications
 🌍 Goal          → Build software used by thousands
 ```
 
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|:--|:--|
-| 🤖 **SWE-Pro Agents** | Professional autonomous coding agents |
-| 🛠 **OpenCode Skills** | Modular skills & workflows for OpenCode |
-| 🏋️ **AI Gym Trainer** | AI-powered workout & nutrition platform |
-| 🎬 **AI Video Pipeline** | End-to-end autonomous video generation |
-| 🌐 **Full Stack SaaS** | Modern production-ready web applications |
-
----
 
 # 📊 GitHub Analytics
 
